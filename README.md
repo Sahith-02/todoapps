@@ -19,7 +19,7 @@ Enter , Analytics in the navbar and user can perform UPDATE DELETE requests.
 ### `npx json-server --watch db.json --port=4000`
 
 split the terminal and run the command to  do CRUD (POST,GET ,PUT, DELETE) operations.
-open [http://localhost:4000](https://localhost:4000) to view it in your browser
+open [http://localhost:4000/users](https://localhost:4000/users) to view it in your browser
 
 ### `npm test`
 
