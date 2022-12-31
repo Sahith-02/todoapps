@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "inputtask": "walking",
+      "startt": "06:00",
+      "endt": "06:30",
+      "category": "Personal",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "inputtask": "running",
+      "startt": "06:35",
+      "endt": "07:05",
+      "category": "Personal",
+      "status": "Completed",
+      "id": 2
+    },
+    {
+      "inputtask": "yoga",
+      "startt": "07:15",
+      "endt": "08:00",
+      "category": "Personal",
+      "status": "Completed",
+      "id": 3
+    },
+    {
+      "inputtask": "bathing",
+      "startt": "08:15",
+      "endt": "09:00",
+      "category": "Personal",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "inputtask": "breakfast",
+      "startt": "09:15",
+      "endt": "09:40",
+      "category": "Personal",
+      "status": "Completed",
+      "id": 5
+    },
+    {
+      "inputtask": "work",
+      "startt": "10:00",
+      "endt": "17:00",
+      "category": "Public",
+      "status": "Completed",
+      "id": 6
+    },
+    {
+      "inputtask": "tutions",
+      "startt": "19:00",
+      "endt": "21:00",
+      "category": "Public",
+      "status": "Completed",
+      "id": 7
+    },
+    {
+      "inputtask": "party",
+      "startt": "22:30",
+      "endt": "01:00",
+      "category": "Public",
+      "status": "Failed",
+      "id": 8
+    },
+    {
+      "inputtask": "Sleeping",
+      "startt": "01:00",
+      "endt": "05:00",
+      "category": "Personal",
+      "status": "Failed",
+      "id": 9
+    }
+  ]
+}
